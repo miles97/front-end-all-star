@@ -17,13 +17,13 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git remote add origin https://github.com/godbasin/list.git
+git remote add origin https://github.com/
 git push origin master -f
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f godbasin@github.com:https://github.com/godbasin/front-end-playground.git master:gh-pages
+# git push -f godbasin@github.com:https://github.com/ master:gh-pages
 
 cd -
