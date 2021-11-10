@@ -4,4 +4,4 @@
 
 核心还是跟页面中介绍的内容一样，这里是源代码托管
 
-[前端全明星](babyshark.work)
+[前端全明星](http://babyshark.work)
